@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:527px;
+  width:375px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -49,8 +49,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:527px;
-  height:938px;
+  width:375px;
+  height:667px;
   overflow:hidden;
 }
 #u4_state0 {
@@ -58,8 +58,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:527px;
-  height:938px;
+  width:375px;
+  height:667px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -79,15 +79,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:523px;
-  height:934px;
+  width:371px;
+  height:663px;
 }
 #u5_input {
   border-width:2px;
   position:absolute;
   left:0px;
   top:0px;
-  width:523px;
-  height:934px;
+  width:371px;
+  height:663px;
   overflow:hidden;
 }
