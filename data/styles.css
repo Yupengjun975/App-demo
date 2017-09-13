@@ -11,8 +11,6 @@
 }
 .box_2 {
 }
-.box_3 {
-}
 .ellipse {
 }
 ._图片 {
@@ -20,9 +18,6 @@
 .placeholder {
 }
 .button {
-}
-.primary_button {
-  color:#FFFFFF;
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -65,14 +60,8 @@
   font-size:10px;
   text-align:left;
 }
-.label {
-  font-size:14px;
-  text-align:left;
-}
 ._文本段落 {
   text-align:left;
-}
-._流程形状 {
 }
 .line {
 }
@@ -80,49 +69,69 @@
   color:#000000;
   text-align:left;
 }
-.text_area {
-  color:#000000;
-  text-align:left;
-}
-.droplist {
-  color:#000000;
-  text-align:left;
-}
-.list_box {
-  color:#000000;
-  text-align:left;
-}
-.checkbox {
-  text-align:left;
-}
-.radio_button {
-  text-align:left;
+._流程形状 {
 }
 .html_button {
   text-align:center;
 }
-.connector {
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
 }
-.sticky_2 {
+._单选按钮 {
   text-align:left;
 }
-.flow_shape {
+._形状 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:normal;
+  font-style:normal;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
 }
 .icon {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.box_3 {
 }
 ._文本段落1 {
   text-align:left;
 }
 ._一级标题1 {
-  font-family:'Arial Negreta', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
-._形状 {
+._形状1 {
 }
 ._水平线 {
 }
 ._垂直线 {
+}
+._图片1 {
+  color:#000000;
+}
+.image {
+}
+._图片2 {
+  color:#000000;
+}
+.flow_shape {
 }
